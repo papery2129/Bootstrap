@@ -1,0 +1,23 @@
+.fondo{
+    background-color:azure;
+}
+.pepe{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.uncharted{
+    font-family: cursive;
+}
+#sic{
+    background-color: black;
+    font-size: 1.5rem;
+    font-family:monospace;
+}
+#link{
+    background-color: rgb(30, 201, 201);
+    color: white;
+}
+#drop{
+    background-color:cadetblue;
+    color: black;
+}
